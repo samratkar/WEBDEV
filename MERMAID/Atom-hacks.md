@@ -10,3 +10,14 @@ import
 
 ![graph](test_TD)
 fff
+
+`#RGB[A]` or `#RRGGBB[AA]`
+`#F00`
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
